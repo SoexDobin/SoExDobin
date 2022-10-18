@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Unity-009473?style=flat-square&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-009473?style=hexagon&logo=Unity&logoColor=white"/>
 
 <!--
 **SoexDobin/SoExDobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
