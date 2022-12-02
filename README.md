@@ -10,6 +10,6 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-00599C?style=for-the-badge&logo=OpenJDK&logoColor=white"/> 
 
 
-#### My resume project since 22/10/15 ~ now
+##### My resume MapleStory project since 22/10/15 ~ now
 **Nothion url** : https://www.notion.so/mushroomhill/3af84ac8e2af4547b3668cc83678c3e2
 
