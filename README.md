@@ -13,4 +13,4 @@
 ##### My resume MapleStory project since 22/10/15 ~ now
 **Nothion url** : https://www.notion.so/mushroomhill/3af84ac8e2af4547b3668cc83678c3e2
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![Dobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoExDobin&show_icons=true&theme=radical)
