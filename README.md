@@ -3,9 +3,9 @@
 
 
 
-<center>I learned about this.!</center>
+<div align="center">I learned about this.!</div>
 
-<img src="https://img.shields.io/badge/Unity-009473?style=for-the-badge&logo=Unity&logoColor=White"/>  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white"/> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-C%23-5C1F87?style=for-the-badge&logo=CSharp&logoColor=white"/> 
+<div align="center"><img src="https://img.shields.io/badge/Unity-009473?style=for-the-badge&logo=Unity&logoColor=White"/>  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white"/> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-C%23-5C1F87?style=for-the-badge&logo=CSharp&logoColor=white"/></div> 
 
 <div align="center">I've tried this at least once!</div>
 
@@ -13,5 +13,5 @@
 
 ![Dobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoExDobin&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoExDobin&layout=compact&theme=tokyonight)
 
-##### My resume MapleStory project since 22/10/15 ~ now
+#### My resume MapleStory project since 22/10/15 ~ now
 **[Maple Nothion url] : (https://www.notion.so/mushroomhill/3af84ac8e2af4547b3668cc83678c3e2)**
