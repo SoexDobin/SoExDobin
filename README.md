@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?&text=SoExciting&animation=fadeIn&type=waving&color=auto&height=244&section=header&fontSize=70)
 
 
-#Hi My Name is Dobin 
-## I want to be a game developer:video_game:
+# <div>Hi My Name is Dobin<div>
+## <div>I want to be a game developer:video_game:<div>
 ---
 
 ### <div align="center">:honeybee: I learned about this.! :honeybee:</div>
