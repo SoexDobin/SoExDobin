@@ -3,7 +3,7 @@
 
 
 
-<div align="center">I learned about this.!</div>   
+<div align="center">:honeybee:I learned about this.!</div>   
    
    
 <div align="center"> <img src="https://img.shields.io/badge/Unity-009473?style=for-the-badge&logo=Unity&logoColor=White"/>  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white"/> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-C%23-5C1F87?style=for-the-badge&logo=CSharp&logoColor=white"/> </div> 
