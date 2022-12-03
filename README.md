@@ -14,4 +14,4 @@
 ![Dobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoExDobin&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoExDobin&layout=compact&theme=tokyonight)
 
 ##### My resume MapleStory project since 22/10/15 ~ now
-[Maple Nothion url] : (https://www.notion.so/mushroomhill/3af84ac8e2af4547b3668cc83678c3e2)
+**[Maple Nothion url] : (https://www.notion.so/mushroomhill/3af84ac8e2af4547b3668cc83678c3e2)**
