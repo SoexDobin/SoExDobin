@@ -53,7 +53,7 @@ public void ChoiJaeWuk() {
 
 #### 2022/12/18 : I make HoneyComb Game of 'Over The Breath' **Java's awt,swing & eclipse**
 ```
-#### <span style="color:blue"> 2023/12/20 : I will make HoneyComb Game of 'Project Honey Comb' with **Unity & aseprite** </span>
+2023/12/20 : I will make HoneyComb Game of 'Project Honey Comb' with Unity & aseprite
 ```
 
 
