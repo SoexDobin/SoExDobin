@@ -47,4 +47,4 @@ public void ChoiJaeWuk() {
 
 ### :maple_leaf: My resume MapleStory project since 22/10/15 ~ 22/12/18 : **[Maple Nothion url](https://www.notion.so/mushroomhill/3af84ac8e2af4547b3668cc83678c3e2)**
 
-### We make HoneyComb Game of 'Project Honey Comb'
+### 2023/12/20 We make HoneyComb Game of 'Project Honey Comb'
