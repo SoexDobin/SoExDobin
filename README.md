@@ -4,6 +4,22 @@
 
 ### <div align="center">:video_game:Hi My Name is Dobin   I want to be a game developer:video_game:</div>
 
+```java
+public void ChoiJaeWuk() {
+   JaeWuk = {
+      name : '최재욱',
+      age : 23,
+      phoneNumber : 01090189829,
+      country : korea,
+      School : 'Hansei Univercity / Since 2018/02 ~ 2024/02'
+      Education : Electronic Software'(2018 ~ 2020) 2th grade -> Computer Engineering(2022 ~ 2024) 4th grade'
+      Lab : 2022/10/28 ~ now
+      Hobby : 'Playing Games & meeting Friends'
+   }
+   // some some some
+}
+```
+
 ### <div align="center">And</div>
 
 ### <div align="center">:honeybee: I learned about this.! :honeybee:</div>
