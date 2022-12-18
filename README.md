@@ -23,6 +23,8 @@
 
 <div align="center"><img src="https://img.shields.io/badge/Unity-009473?style=for-the-badge&logo=Unity&logoColor=White"/>  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white"/></div>
 
+#
+
 ![Dobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoExDobin&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoExDobin&layout=compact&theme=tokyonight)
 
 #
