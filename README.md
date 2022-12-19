@@ -45,7 +45,7 @@ public void ChoiJaeWuk() {
 
 #
 
-## My 
+## My Projects
 
 #### :maple_leaf: My resume MapleStory project since 22/10/15 ~ 22/12/18 : **[Maple Nothion url](https://www.notion.so/mushroomhill/3af84ac8e2af4547b3668cc83678c3e2)**
 
@@ -56,4 +56,7 @@ public void ChoiJaeWuk() {
 2023/12/20 : I will make HoneyComb Game of 'Project Honey Comb' with Unity & aseprite
 ```
 
+#
 
+## My Licenese
+* 'Engineer Information Processing' In Human Resources Development Service of Korea
