@@ -16,7 +16,7 @@ public void ChoiJaeWuk() {
       Lab : 2022/10/28 ~ now
       Hobby : 'Playing Games & meeting Friends'
    }
-   // some some some
+   // 현재 정책으로 font 색상 변형이 안되는 걸로 알아 to be 형식은 괄호로 묶어 놨습니다.
 }
 ```
 
