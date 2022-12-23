@@ -49,19 +49,19 @@ public void ChoiJaeWuk() {
 #
 <br>
 
-## My Projects
+## Article
 
 #### :maple_leaf: My resume MapleStory project since 22/10/15 ~ 22/12/18 : **[Maple Nothion url](https://www.notion.so/mushroomhill/3af84ac8e2af4547b3668cc83678c3e2)**
 
 #### 2022/05 ~ 2022/07 : I make 2D dot RPG Game of 'Over The Breath' with **Unity**
 
 #### 2022/12/18 : I make simple Dice Game with **Java's awt,swing & eclipse**
-```
-2023/12/20 : I will make HoneyComb Game of 'Project Honey Comb' with Unity & aseprite
-```
+
+#### 2023/12/20 : I will make HoneyComb Game of 'Project Honey Comb' with Unity & aseprite (To be)
+
 
 #
 <br>
 
 ## My Licenese
-* **Engineer Information Processing**  In Human Resources Development Service of Korea
+* **Engineer Information Processing**  In Human Resources Development Service of Korea (To be)
