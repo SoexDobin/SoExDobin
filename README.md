@@ -65,4 +65,3 @@ public void ChoiJaeWuk() {
 
 ## My Licenese
 * **Engineer Information Processing**  In Human Resources Development Service of Korea
-<span style="color:blue">파란 색</span>
