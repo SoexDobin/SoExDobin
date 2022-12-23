@@ -64,4 +64,4 @@ public void ChoiJaeWuk() {
 <br>
 
 ## My Licenese
-* **Engineer Information Processing**  In Human Resources Development Service of Korea
+<span style="color:red"> * **Engineer Information Processing**  In Human Resources Development Service of Korea </span>
