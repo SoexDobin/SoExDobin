@@ -5,18 +5,7 @@
 ### <div align="center">:video_game:Hi My Name is Dobin   I want to be a game developer:video_game:</div>
 
 ```java
-public void ChoiJaeWuk() {
-   JaeWuk = {
-      name : '최재욱',
-      age : 23,
-      phoneNumber : 01090189829,
-      country : korea,
-      School : 'Hansei Univercity / Since 2018/02 ~ 2024/02'
-      Education : 'Electronic Software(2018 ~ 2020) 2nd grade->Computer Engineering(2022 ~ 2024) 4th grade'
-      Lab : 2022/10/28 ~ now
-      Hobby : 'Playing Games & meeting Friends'
-   }
-   // 현재 정책으로 font 색상 변형이 안되는 걸로 알아 to be 형식은 괄호로 묶어 놨습니다.
+======================================================================================================================
 }
 ```
 
